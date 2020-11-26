@@ -1,0 +1,2 @@
+qqwry-py3==1.0.8
+ipip-ipdb==1.5.0
